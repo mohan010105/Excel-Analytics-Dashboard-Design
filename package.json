@@ -4,6 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "build": "[my-framework] build --output public"
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
